@@ -1,0 +1,5 @@
+export ROSLAUNCH_SSH_UNKNOWN=1
+export ROS_IP=SMTU_SURFACE
+export ROS_MASTER_URI=http://SMTU_SURFACE:11311
+export ROSLAUNCH_SSH_UNKNOWN=1
+roslaunch rov rov.launch
